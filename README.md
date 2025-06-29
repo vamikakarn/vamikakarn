@@ -1,4 +1,4 @@
-## Hi there 👋
+## Vamika Karn👋
 Hi, I'm a biotechnology graduate with a passion for bioinformatics and computational biology. I work with R, Python, and Linux, building tools and workflows that bridge the gap between biology and data science. I'm especially interested in:
 > Genomic data analysis
 > Biological data visualization
