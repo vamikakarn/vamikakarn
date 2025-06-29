@@ -1,5 +1,11 @@
 ## Hi there 👋
+Hi, I'm a biotechnology graduate with a passion for bioinformatics and computational biology. I work with R, Python, and Linux, building tools and workflows that bridge the gap between biology and data science. I'm especially interested in:
+> Genomic data analysis
+> Biological data visualization
+> Reproducible research pipelines
+> Open science and collaborative projects
 
+I'm currently exploring opportunities in bioinformatics and computational biology, and always open to connecting with others in the field. Feel free to reach out or check out my work here on GitHub.
 <!--
 **vamikakarn/vamikakarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
